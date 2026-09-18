@@ -1,0 +1,67 @@
+[
+ {
+  "@type": "Article",
+  "headline": "AI Safety Push Sparks Demand for Watchdog Groups. Critics Doubt Their Independence.",
+  "url": "https://www.theinformation.com/articles/ai-safety-push-sparks-demand-watchdog-groups-critics-doubt-independence",
+  "datePublished": "2026-09-18T13:00:41Z",
+  "author": [
+   {
+    "@id": "#main-author"
+   },
+   {
+    "@type": "Person",
+    "name": "Rocket Drew",
+    "url": "https://www.theinformation.com/u/rocket"
+   }
+  ]
+ },
+ {
+  "@type": "Briefing",
+  "headline": "OpenAI Discloses More Safety Incidents and Adopts New Reporting Framework",
+  "url": "https://www.theinformation.com/briefings/openai-discloses-safety-incidents-adopts-new-reporting-framework",
+  "datePublished": "2026-09-16T23:52:39Z",
+  "author": [
+   {
+    "@id": "#main-author"
+   }
+  ]
+ },
+ {
+  "@type": "Briefing",
+  "headline": "Two Google DeepMind AI Researchers Resign Over Safety",
+  "url": "https://www.theinformation.com/briefings/two-google-deepmind-ai-researchers-resign-safety",
+  "datePublished": "2026-09-16T03:26:36Z",
+  "author": [
+   {
+    "@id": "#main-author"
+   }
+  ]
+ },
+ {
+  "@type": "Briefing",
+  "headline": "Elon Musk Says AI Companies Should Test Each Other\u2019s Models for Safety",
+  "url": "https://www.theinformation.com/briefings/elon-musk-says-ai-companies-test-others-models-safety",
+  "datePublished": "2026-09-16T03:24:12Z",
+  "author": [
+   {
+    "@id": "#main-author"
+   }
+  ]
+ },
+ {
+  "@type": "Briefing",
+  "headline": "OpenAI AI Swarm Hacked Software Service Months Before Hugging Face Incident",
+  "url": "https://www.theinformation.com/briefings/openai-ai-swarm-hacked-software-service-months-hugging-face-incident",
+  "datePublished": "2026-09-12T00:18:42Z",
+  "author": [
+   {
+    "@id": "#main-author"
+   }
+  ]
+ },
+ {
+  "@type": "WebPageElement",
+  "isAccessibleForFree": "False",
+  "cssSelector": "#profile-seo-container"
+ }
+]

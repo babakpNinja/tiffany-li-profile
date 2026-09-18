@@ -1,0 +1,4 @@
+.git
+*.md
+research/*.json
+__pycache__
