@@ -254,8 +254,10 @@
   function setLang(lang){
     LANG=lang;
     document.querySelectorAll('.lang').forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.lang===lang));});
-    document.documentElement.lang=lang;
-    document.documentElement.dir=RTL[lang]?'rtl':'ltr';
+    // Only the article text follows the language direction. Flipping the whole
+    // document mirrors the header, hero and timeline, which should stay LTR.
+    var note=document.getElementById('langnote');
+    if(note) note.dir=RTL[lang]?'rtl':'ltr';
     if(DATA) render();
   }
   document.querySelectorAll('.lang').forEach(function(b){b.addEventListener('click',function(){setLang(b.dataset.lang);});});
