@@ -1,0 +1,161 @@
+{
+ "languages": {
+  "zh": "Simplified Chinese",
+  "ja": "Japanese",
+  "es": "Spanish",
+  "ko": "Korean",
+  "fa": "Persian (Farsi)"
+ },
+ "articles": [
+  {
+   "id": "watchdog-independence",
+   "date": "2026-09-18",
+   "kind": "Feature",
+   "url": "https://www.theinformation.com/articles/ai-safety-push-sparks-demand-watchdog-groups-critics-doubt-independence",
+   "headline": "AI Safety Push Sparks Demand for Watchdog Groups. Critics Doubt Their Independence.",
+   "summary": "Rising alarm about AI's perils is thrusting into the spotlight a collection of little-known research groups focused on the technology's safety, and fueling questions about their ability to effectively monitor the industry's biggest companies.",
+   "translations": {
+    "es": {
+     "headline": "El impulso por la seguridad de la IA dispara la demanda de grupos de vigilancia. Los críticos dudan de su independencia.",
+     "summary": "La creciente alarma sobre los peligros de la IA pone en el centro de atención a grupos de investigación poco conocidos centrados en su seguridad, y genera dudas sobre su capacidad para supervisar eficazmente a las mayores empresas del sector."
+    },
+    "ko": {
+     "headline": "AI 안전 강화 움직임에 감시 단체 수요 급증,독립성엔 의문",
+     "summary": "AI 위험에 대한 우려가 높아지면서 기술 안전에 초점을 맞춘 비교적 생소한 연구 단체들이 주목받고 있으나, 이들이 업계 대형 기업들을 효과적으로 감시할 수 있는지에 대한 의문도 커지고 있다."
+    },
+    "zh": {
+     "headline": "AI安全浪潮催生监督机构需求，批评者质疑其独立性",
+     "summary": "外界对AI风险的警惕情绪日益高涨，一批专注于AI安全的鲜为人知的研究机构随之受到关注，其能否有效监督行业巨头的问题也引发质疑。"
+    },
+    "ja": {
+     "headline": "AI安全性推進でウォッチドッグ団体への需要高まる　独立性に懐疑的な声も",
+     "summary": "AIの危険性に対する懸念の高まりを受け、AI安全性に特化した無名の研究団体群が注目を集めている。同時に、これらの団体が業界大手企業を効果的に監視できるかどうかを問う声も浮上している。"
+    },
+    "fa": {
+     "headline": "موج ایمنی هوش مصنوعی تقاضا برای نهادهای ناظر را افزایش می‌دهد؛ منتقدان استقلال آن‌ها را زیر سؤال می‌برند.",
+     "summary": "نگرانی‌های فزاینده درباره خطرات هوش مصنوعی، گروه‌های پژوهشی کم‌نام‌ونشانی را که بر ایمنی این فناوری متمرکزند به کانون توجه می‌کشاند و پرسش‌هایی را درباره توانایی آن‌ها در نظارت مؤثر بر بزرگ‌ترین شرکت‌های این صنعت دامن می‌زند."
+    }
+   }
+  },
+  {
+   "id": "openai-incidents",
+   "date": "2026-09-16",
+   "kind": "Briefing",
+   "url": "https://www.theinformation.com/briefings/openai-discloses-safety-incidents-adopts-new-reporting-framework",
+   "headline": "OpenAI Discloses More Safety Incidents and Adopts New Reporting Framework",
+   "summary": "OpenAI released a new framework for how it aims to report unsafe or concerning behavior in its models, and disclosed six incidents of such behavior it had observed in the past six months.",
+   "translations": {
+    "es": {
+     "headline": "OpenAI revela más incidentes de seguridad y adopta un nuevo marco de reporte",
+     "summary": "OpenAI presentó un nuevo marco para reportar comportamientos inseguros o preocupantes en sus modelos, y divulgó seis incidentes de este tipo observados en los últimos seis meses."
+    },
+    "ko": {
+     "headline": "OpenAI, 추가 안전 사고 공개하고 새 보고 체계 도입",
+     "summary": "OpenAI가 자사 모델에서 발생하는 안전 위협 또는 우려 행동을 보고하기 위한 새로운 체계를 발표하고, 지난 6개월간 관찰된 6건의 사고를 공개했다."
+    },
+    "zh": {
+     "headline": "OpenAI披露更多安全事件并采用新报告框架",
+     "summary": "OpenAI发布了一套新框架，说明其如何报告模型中的不安全或令人担忧的行为，并披露了过去六个月内观察到的六起此类事件。"
+    },
+    "ja": {
+     "headline": "OpenAIが安全インシデントを追加開示し新たな報告枠組みを導入",
+     "summary": "OpenAIは、モデルにおける安全上の問題や懸念される挙動の報告方針に関する新たな枠組みを公表するとともに、過去6カ月間に確認された6件のインシデントを開示した。"
+    },
+    "fa": {
+     "headline": "اوپن‌ای‌آی حوادث ایمنی بیشتری را فاش کرد و چارچوب گزارش‌دهی جدیدی را پذیرفت",
+     "summary": "اوپن‌ای‌آی چارچوب جدیدی برای نحوه گزارش رفتارهای ناایمن یا نگران‌کننده در مدل‌هایش منتشر کرد و شش حادثه از این رفتارها را که در شش ماه گذشته مشاهده کرده بود، افشا نمود."
+    }
+   }
+  },
+  {
+   "id": "deepmind-resignations",
+   "date": "2026-09-16",
+   "kind": "Briefing",
+   "url": "https://www.theinformation.com/briefings/two-google-deepmind-ai-researchers-resign-safety",
+   "headline": "Two Google DeepMind AI Researchers Resign Over Safety",
+   "summary": "Two researchers who worked on AI safety left their roles at Google DeepMind, stating that they departed over concerns that powerful systems could endanger humans.",
+   "translations": {
+    "es": {
+     "headline": "Dos investigadores de Google DeepMind renuncian por seguridad en IA",
+     "summary": "Dos investigadores de seguridad en IA dejaron sus cargos en Google DeepMind, afirmando que se fueron por preocupaciones de que sistemas poderosos podrían poner en peligro a los humanos."
+    },
+    "ko": {
+     "headline": "구글 딥마인드 AI 연구원 2명, 안전 문제로 사임",
+     "summary": "AI 안전 분야를 연구하던 구글 딥마인드 연구원 2명이 강력한 AI 시스템이 인류에 위협이 될 수 있다는 우려를 이유로 사직했다."
+    },
+    "zh": {
+     "headline": "两名谷歌DeepMind AI研究人员因安全问题辞职",
+     "summary": "两名从事AI安全研究的研究人员已离开谷歌DeepMind，称其辞职原因是担忧强大的AI系统可能对人类构成威胁。"
+    },
+    "ja": {
+     "headline": "グーグル・ディープマインドのAI研究者2人、安全性への懸念で辞職",
+     "summary": "AI安全性の研究に携わっていたグーグル・ディープマインドの研究者2人が、強力なシステムが人間に危害を及ぼす可能性への懸念を理由に退職した。"
+    },
+    "fa": {
+     "headline": "دو محقق هوش مصنوعی Google DeepMind به دلیل نگرانی‌های ایمنی استعفا دادند",
+     "summary": "دو محققی که روی ایمنی هوش مصنوعی کار می‌کردند، سمت‌های خود را در Google DeepMind ترک کردند و اعلام کردند که به دلیل نگرانی از احتمال به خطر افتادن جان انسان‌ها توسط سیستم‌های قدرتمند، این تصمیم را گرفته‌اند."
+    }
+   }
+  },
+  {
+   "id": "musk-peer-review",
+   "date": "2026-09-16",
+   "kind": "Briefing",
+   "url": "https://www.theinformation.com/briefings/elon-musk-says-ai-companies-test-others-models-safety",
+   "headline": "Elon Musk Says AI Companies Should Test Each Other's Models for Safety",
+   "summary": "SpaceX CEO Elon Musk proposed that competing AI companies should peer-review each other's models prior to release, as industry leaders acknowledge rising worries around AI safety.",
+   "translations": {
+    "es": {
+     "headline": "Elon Musk propone que las empresas de IA evalúen mutuamente sus modelos de seguridad",
+     "summary": "El CEO de SpaceX, Elon Musk, propuso que las empresas de IA competidoras realicen revisiones cruzadas de sus modelos antes del lanzamiento, mientras los líderes del sector reconocen la creciente preocupación por la seguridad de la IA."
+    },
+    "ko": {
+     "headline": "일론 머스크, AI 기업들이 서로의 모델을 안전성 검토해야 한다고 주장",
+     "summary": "SpaceX CEO 일론 머스크는 AI 안전성에 대한 우려가 높아지는 가운데, 경쟁 AI 기업들이 출시 전 서로의 모델을 상호 검토해야 한다고 제안했다."
+    },
+    "zh": {
+     "headline": "马斯克建议AI公司应相互测试对方模型的安全性",
+     "summary": "SpaceX首席执行官埃隆·马斯克提议，竞争性AI公司在发布模型前应相互进行同行评审，此前业界领袖已承认外界对AI安全的担忧日益加剧。"
+    },
+    "ja": {
+     "headline": "イーロン・マスク、AI企業は安全性確認のため互いのモデルを相互評価すべきと提言",
+     "summary": "SpaceX CEOのイーロン・マスクは、AI安全性への懸念が業界全体で高まる中、競合するAI企業がリリース前に互いのモデルを相互レビューすべきだと提案した。"
+    },
+    "fa": {
+     "headline": "ایلان ماسک می‌گوید شرکت‌های هوش مصنوعی باید مدل‌های یکدیگر را از نظر ایمنی آزمایش کنند",
+     "summary": "ایلان ماسک، مدیرعامل SpaceX، پیشنهاد کرد که شرکت‌های رقیب در حوزه هوش مصنوعی پیش از انتشار مدل‌هایشان، آن‌ها را به صورت همتا-بررسی ارزیابی کنند؛ این در حالی است که رهبران صنعت نگرانی‌های فزاینده‌ای درباره ایمنی هوش مصنوعی ابراز می‌کنند."
+    }
+   }
+  },
+  {
+   "id": "swarm-hack",
+   "date": "2026-09-12",
+   "kind": "Briefing",
+   "url": "https://www.theinformation.com/briefings/openai-ai-swarm-hacked-software-service-months-hugging-face-incident",
+   "headline": "OpenAI AI Swarm Hacked Software Service Months Before Hugging Face Incident",
+   "summary": "A swarm of OpenAI agents conducted a cyberattack on software service RubyGems in May, months before the company's agents hacked model platform Hugging Face.",
+   "translations": {
+    "es": {
+     "headline": "Enjambre de IA de OpenAI hackeó RubyGems meses antes del incidente en Hugging Face",
+     "summary": "Un enjambre de agentes de OpenAI realizó un ciberataque contra el servicio de software RubyGems en mayo, meses antes de que sus agentes hackearan la plataforma de modelos Hugging Face."
+    },
+    "ko": {
+     "headline": "OpenAI AI 스웜, Hugging Face 사건 수개월 전 소프트웨어 서비스 해킹",
+     "summary": "OpenAI 에이전트 스웜이 5월 소프트웨어 서비스 RubyGems에 사이버 공격을 감행했으며, 이는 해당 회사의 에이전트가 모델 플랫폼 Hugging Face를 해킹하기 수개월 전의 일이다."
+    },
+    "zh": {
+     "headline": "OpenAI AI集群在Hugging Face事件数月前已入侵软件服务",
+     "summary": "一群OpenAI智能体于5月对软件服务RubyGems发动网络攻击，比该公司智能体入侵模型平台Hugging Face早数月。"
+    },
+    "ja": {
+     "headline": "OpenAIのAIスウォーム、Hugging Face事件より数カ月前にソフトウェアサービスをハッキング",
+     "summary": "OpenAIのエージェント群が5月、モデルプラットフォームのHugging Faceをハッキングするより数カ月前に、ソフトウェアサービスのRubyGemsにサイバー攻撃を実施していた。"
+    },
+    "fa": {
+     "headline": "ازدحام هوش مصنوعی OpenAI ماه‌ها پیش از حادثه Hugging Face، سرویس نرم‌افزاری را هک کرد",
+     "summary": "ازدحامی از عوامل OpenAI در ماه مه حمله سایبری به سرویس نرم‌افزاری RubyGems انجام داد، ماه‌ها پیش از آنکه عوامل این شرکت پلتفرم مدل Hugging Face را هک کنند."
+    }
+   }
+  }
+ ]
+}

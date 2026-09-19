@@ -2,3 +2,4 @@
 *.md
 research/*.json
 __pycache__
+build_translations.py
